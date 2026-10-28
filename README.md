@@ -17,6 +17,7 @@ Docket Alarm came into vLex through the Fastcase merger in April 2023. Clio's ac
 - [crypto-etl-pipeline](https://github.com/kiman121/crypto-etl-pipeline) — fetch, clean, and keep one price row per coin per day, with a schedule and a fixture test
 - [html-records](https://github.com/kiman121/html-records) — fetch a listing, discover the record links, parse HTML with Cheerio
 - [records-api](https://github.com/kiman121/records-api) — TypeScript API over those records, validated with Zod and stored in SQLite
+- [mtaani-post](https://github.com/kiman121/mtaani-post) — Django neighbourhood app from 2021, with a test. PostgreSQL when configured. This is earlier practice, not the client pipelines.
 
 ## Contact
 
