@@ -1,40 +1,24 @@
-# Hi there 👋 I'm Patrick Kimanthi
+# Patrick Kimanthi
 
-I'm a Python developer and data engineer passionate about extracting meaningful insights from complex datasets. I specialize in building robust web scrapers, ETL pipelines, and backend systems that power data-rich applications.
+Data engineer subcontracted through AppsOnPoint since May 2022. Four years of production pipeline work. Since June 2023 the client is Docket Alarm, now part of Clio. I build Python pipelines that search a public source, parse the record, and serve it in the live product.
 
-Currently, I work remotely with Appsonpoint, contracting for DocketAlarm (U.S.), where I build production-grade crawlers to structure legal data from diverse U.S. court systems.
+From May 2022 to June 2023 the client was vLex. Each source was a JavaScript snippet on a shared Node.js runner: fetch, link discovery, and a Cheerio parser.
 
----
+Docket Alarm came into vLex through the Fastcase merger in April 2023. Clio's acquisition of vLex closed in November 2025. My employer is AppsOnPoint.
 
-## 🔧 Tech Stack & Tools
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+## Skills
 
----
+- Day job: Python, ETL, data pipelines, Google Cloud, Django, parsing, JSON, scheduled jobs
+- Earlier client: JavaScript, Node.js, Cheerio, HTML parsing
+- Own product, separate from the client work: TypeScript, Express, Next.js, React, Prisma, PostgreSQL, Zod, Jest
 
-## 📌 Featured Projects
+## Public projects
 
-### 🚀 [Crypto ETL Pipeline](https://github.com/kiman121/crypto-etl-pipeline)
-ETL pipeline that pulls data from the CoinGecko API, cleans it with pandas, and stores it in SQLite/CSV. Includes CLI support and error logging.
+- [crypto-etl-pipeline](https://github.com/kiman121/crypto-etl-pipeline) — fetch, clean, and keep one price row per coin per day, with a schedule and a fixture test
+- [html-records](https://github.com/kiman121/html-records) — fetch a listing, discover the record links, parse HTML with Cheerio
+- [records-api](https://github.com/kiman121/records-api) — TypeScript API over those records, validated with Zod and stored in SQLite
 
-### 🛒 E-Commerce Backend (In Progress)
-A backend REST API for managing users and orders, built with Node.js and Supabase. Frontend built in React. Will feature JWT authentication and payment integration.
+## Contact
 
-### 🏛️ Legal Web Scraper
-Web crawlers for DocketAlarm to extract and structure data from dynamic court system websites. Designed for accuracy and high performance under scale.
-
----
-
-## 📫 Let’s Connect
-- 🌍 [LinkedIn](https://www.linkedin.com/in/patrick-kimanthi-63727296/)
-- 💼 [Resume](mailto:kimanthip@gmail.com)
-- 💻 [GitHub](https://github.com/kiman121)
-
----
-
-_“Code is data, and data is everything.”_
+- [LinkedIn](https://www.linkedin.com/in/patrick-kimanthi-63727296/)
+- kimanthip@gmail.com
