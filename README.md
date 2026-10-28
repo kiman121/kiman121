@@ -18,7 +18,7 @@ Docket Alarm came into vLex through the Fastcase merger in April 2023. Clio's ac
 - [html-records](https://github.com/kiman121/html-records) — fetch a listing, discover the record links, parse HTML with Cheerio
 - [records-api](https://github.com/kiman121/records-api) — TypeScript API over those records, validated with Zod and stored in SQLite
 - [bulletin](https://github.com/kiman121/bulletin) — Next.js reader for those records, with search, a phone layout, and a Jest test
-- [mtaani-post](https://github.com/kiman121/mtaani-post) — Django neighbourhood app from 2021, with a test. PostgreSQL when configured. This is earlier practice, not the client pipelines.
+- [mtaani-post](https://github.com/kiman121/mtaani-post) — Django neighbourhood app from 2021, with a test. The screens are a current server-rendered layout. PostgreSQL when configured. This is earlier practice, not the client pipelines.
 
 ## Contact
 
